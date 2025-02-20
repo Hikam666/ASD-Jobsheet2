@@ -62,6 +62,10 @@ public class MahasiswaMain13 {
         MahasiswaMain13 mhs2 = new MahasiswaMain13("Annisa Nabila","2141720160", 3.25,"TI 2L");
         mhs2.updateIPK(3.30);
         mhs2.tampilkanInformasi();
+
+        MahasiswaMain13 mhsHikam = new MahasiswaMain13("Muhammad Aklilul Hikam", "244107060059", 3.60, "SIB 1C");
+        mhsHikam.updateIPK(3.60);
+        mhsHikam.tampilkanInformasi();
          
     }  
 }
